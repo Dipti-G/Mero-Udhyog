@@ -1,0 +1,759 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Herr+Von+Muellerhoff');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display+SC');
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two');
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+.top-nav-collapse
+{
+	background:#6B8E23	;
+}
+.navbar
+{
+	background:#6B8E23	;
+}
+.navbar-brand h1
+{
+	color:#fff;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+.navbar-brand
+{
+	font-family:'Monoton', cursive;
+	font-weight: bold;
+}
+.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #fff;
+}
+.navbar li
+{
+	color: white;
+	font-weight: bold;
+}
+.card-body:hover
+{
+	background:#6B8E23	;
+}
+
+.bg2 h4, .bg5 h4, .bg7 h4
+{
+	margin-top:60px;
+	text-align:center;
+	color:#999;
+}
+.bg2 h1, .bg7 h1, .feedback h1
+{
+	text-align:center;
+	color:#000;
+	margin-bottom:30px;
+	
+}
+.vegetables
+{
+	margin-top:100px;
+}
+.vegetables h1
+{
+	color:#7D6948;
+	font-size:14px;
+}
+.footer
+{
+	margin-top:100px;
+	background:#95a83f;
+	color:#7D6948;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:100px;
+}
+
+.dear
+{
+	margin-top:100px;
+}
+.bg3 h5
+{
+	font-weight:bold;
+	font-size:24px;
+	text-align:center;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.bg3 p
+{
+	color:#666;
+	margin-bottom:40px;
+	text-align:center;
+}
+.bg3 img
+{
+	margin-left:140px;
+	
+}
+#bg4
+{
+	background-color: ;
+	min-height:440px;
+	margin-top:00px;
+}
+.bg4 h2
+{
+	color:#fff;
+	padding-top:150px;
+	text-align:center;
+	font-size:56px;
+}
+.bg4 p
+{
+	color:#fff;
+	font-size:24px;
+	text-align:center;
+}
+.btn-info
+{
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-left:10px;
+	padding-right:10px;
+	margin-top:20px;
+	margin-left:600px;
+}
+.bg6
+{
+	
+	min-height:500px;
+	margin-top:60px;
+}
+.bg6 h4
+{
+	text-align:center;
+	padding-top:60px;
+	color:#fff;
+}
+.bg6 h1
+{
+	text-align:center;
+	color:#fff;
+}
+.circle
+{
+	padding-left:140px;
+	padding-top:60px;
+}
+.circle p
+{
+	color:#fff;
+	padding-left:30px;
+	padding-top:30px;
+	font-size:24px;
+}
+.feedback, .col-auto
+{
+	margin-top:60px;
+}
+.bg5
+{
+	background-image:url(img12.jpg);
+	min-height:300px;
+}
+.bg5 p
+{
+	text-align:center;
+	font-size:18px;
+	padding-top:40px;
+	font-weight:bold;
+}
+.bg5 h4
+{
+	padding-top:40px;
+}
+.job h4
+{
+	text-align:center;
+	padding-top:60px;
+}
+.form-row, .form-group, .form-control, .inputEmail4, .apply
+{
+	text-align:center;
+}
+.aa, .dd
+{
+	padding-left:510px;
+}
+.trends h1, .choose h2, .deals h2, .bg2 h2, .dear h2, 
+{
+	text-align:center;
+	color:#95a83f;
+	padding-top:0px;
+	font-family:"Playfair Display", serif;
+}
+.bg6 p
+{
+
+	font-family: "Lobster+Two";
+
+}
+.trends h2, .choose h1, .deals h1,.subs h1, .bg2 h1, .dear h1, .bg6 h4
+{
+	margin-top:30px;
+	text-align:center;
+	color:#666;
+	font-family:"Herr Von Muellerhoff", cursive;
+	font-size:80px;
+	padding-bottom:0px;
+}
+.card h3, .card h6
+{
+	font-family:'Lobster+Two';
+}
+.card img
+{
+	margin-left:5px;
+	width:200px;
+	height:270px;
+}
+.card1 img
+{
+	width:290px;
+	margin-right:5px;
+	
+}
+.card 
+{
+	border:none;
+	
+}
+.deals
+{
+	margin-top:80px;
+}
+.deals img
+{
+	widht:400px;
+	height:400px;
+	
+}
+.btn-success
+{
+	border-radius:25px;
+	margin-top:100px;
+	
+}
+.circle1
+{
+	border:5px solid #95a83f;
+	width:150px;
+	height:150px;
+	border-radius:50%;
+	position:relative;
+	margin-top:200px;
+	margin-left:40px;
+}
+.circle1-inner
+{
+	border-radius:50%;
+	height:80px;
+	width:80px;
+	background:#000;
+	position:absolute;
+	right:-20px;
+	top:-20px;
+	color: white;
+	font-size: 0px;
+	transition:30s;
+	
+}
+.circle1-inner h2, .circle1-inner h4
+{
+	font-size: 20px;
+	padding-top:15px;
+}
+.circle1 p
+{
+	font-size:16px;
+	text-align:center;
+	padding-top:60px;
+	color:#7D6948;
+}
+.foot
+{
+	margin-top:80px;
+	background:#F7F7F7;
+	color:#7D6948;
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:100px;
+}
+.cc
+{
+	margin:0px;
+	padding:0px;
+}
+.team h2
+{
+	color:#199eb8;
+	padding-top:50px;
+}
+.team
+{
+	border:none;
+}
+.card
+{
+	position:relative;
+	border:none;
+}
+.ttt
+{
+	position:absolute;
+		left:0px;
+	background:rgba(0,0,0,0.6);
+	width:100%;
+	height:100%;
+	color:#fff;
+	display:none;
+	top:0px;
+}
+.card:hover .ttt
+{
+	display:block;
+}
+.card:hover .card-body
+{
+	color:#fff;
+	background:#95a83f;
+}
+.counter { background-color: #ffffff; padding: 20px 0; border-radius: 5px;}
+.count-title { font-size: 40px; font-weight: normal;  margin-top: 10px; margin-bottom: 0; text-align: center; }
+.count-text { font-size: 13px; font-weight: normal;  margin-top: 10px; margin-bottom: 0; text-align: center; }
+.subs
+{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.subs accordion
+{
+	padding-top: 100px;
+}
+.card-header1{
+	background:url(../dist/images/img1.jpg);
+	width: 100%;
+	height: 200px;
+}
+.card-header2
+{
+	background:url(../dist/images/img11.jpg);
+	
+	width: 100%;
+	height: 200px;
+}
+.card-header3
+{
+	background:url(../dist/images/cereals.jpg);
+	width: 100%;
+	height: 200px;
+}
+.card-header4
+{
+	background:url(../dist/images/img12.jpg);
+	width: 100%;
+	height: 200px;
+	
+}
+.btn-link:focus
+{
+	text-decoration: none;
+	font-size: 100px;
+	text-align: center;
+	text-decoration-color: aliceblue;
+}
+.btn-link
+{
+	color: aliceblue;
+	font-size: 100px;
+	text-decoration: none;
+	text-align: center;
+	
+	
+}
+.btn-link:hover
+{
+	color:#95a83f;
+}
+.card:hover
+{
+	background: #FFFFFF;
+	color: #B2F896;
+}
+.but{
+	padding-left: 500px;
+	padding-bottom: 100px;
+
+}
+.btn-success
+{
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-radius: 20px;
+}
+.btn-success {
+    color: #fff;
+    background-color: 		#3CB371;
+    border-color: 	#8FBC8F;
+}
+.mainpage
+{
+	
+	background-color:#f5f5f5;
+	padding-top:100px;
+}
+.contents
+{
+	padding:50px;
+	background-color:#FFF;
+	
+}
+
+.registerbuyer h2
+{
+	text-align: left;
+	text-decoration:underline;
+	padding-bottom:20px;
+	margin-left:15px;
+	
+}
+.registerseller h2
+{
+	text-align: left;
+	text-decoration:underline;
+	padding-bottom:20px;
+	margin-left:15px;
+	
+}
+.loginbuyer h2
+{
+	text-align: left;
+	text-decoration:underline;
+	padding-bottom:20px;
+	margin-left:15px;
+	padding-top:40px;
+}
+.loginseller h2
+{
+	text-align: left;
+	text-decoration:underline;
+	padding-bottom:20px;
+	padding-top:40px;
+	margin-left:15px;
+}
+.form-group
+{
+	text-align:left;
+	padding:10px;
+}
+.btn-primary
+{
+	background-color:#159948;
+	border:#030;
+	border-radius:20px;
+	width:100px;
+}
+.form-control
+{
+	border-radius:20px;
+	text-align:left;
+	
+}
+.form-check
+{
+	padding-bottom:20px;
+	padding-top:10px;
+	
+}
+.mainpage2
+{
+	
+	background-color:#f5f5f5;
+	margin:auto;
+}
+.contents2
+{
+	padding:50px;
+	background-color:#FFF;
+}
+.btn-primary
+{
+	background-color:#159948;
+	border:#030;
+	border-radius:20px;
+	width:100px;
+}
+.form-control
+{
+	width:800px;
+	height:100px;
+}
+
+.footer
+{
+	color: black;
+	background-color: 	#6B8E23;
+}
+.bg6 p
+{
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+
+
+
+
+/* seller form style*/
+.mainpage2
+{
+	
+	background-color:#f5f5f5;
+	margin:auto;
+}
+.contents2
+{
+	padding:50px;
+	background-color:#FFF;
+}
+.btn-primary
+{
+	background-color:#159948;
+	border:#030;
+	border-radius:20px;
+	width:100px;
+}
+.form-control
+{
+	width:800px;
+	height:100px;
+}
+/* style of login.css */
+.mainpage
+{
+	
+	background-color:#f5f5f5;
+}
+.contents
+{
+	padding:50px;
+	background-color:#FFF;
+	
+}
+
+.registerbuyer h2
+{
+	text-align: left;
+	text-decoration:underline;
+	padding-bottom:20px;
+	margin-left:15px;
+	
+}
+.registerseller h2
+{
+	text-align: left;
+	text-decoration:underline;
+	padding-bottom:20px;
+	margin-left:15px;
+	
+}
+.loginbuyer h2
+{
+	text-align: left;
+	text-decoration:underline;
+	padding-bottom:20px;
+	margin-left:15px;
+	padding-top:40px;
+}
+.loginseller h2
+{
+	text-align: left;
+	text-decoration:underline;
+	padding-bottom:20px;
+	padding-top:40px;
+	margin-left:15px;
+}
+.form-group
+{
+	text-align:left;
+	padding:10px;
+}
+.btn-primary
+{
+	background-color:#159948;
+	border:#030;
+	border-radius:20px;
+	width:100px;
+}
+.form-control
+{
+	border-radius:20px;
+	text-align:left;
+	
+}
+.form-check
+{
+	padding-bottom:20px;
+	padding-top:10px;
+	
+}
+
+.rate-vendors img
+{
+	width: 280px;
+}
+.card-body
+{
+	color:#000;
+}
+h2 {
+    background-color: : #fff;
+}
+.crd
+{
+	background-color: black;
+}
+.card-header1{
+	background: url(images/img1.jpg);
+	width: :100%;
+	height: 200px;
+}
+.card-header2{
+	background: url(images/img11.jpg);
+	width: :100%;
+	height: 200px;
+}
+.card-header3{
+	background: url(images/img2.jpg);
+	width: :100%;
+	height: 200px;
+}
+.card-header4{
+	background: url(images/img12.jpg);
+	width: :100%;
+	height: 200px;
+}
+.subbutton{
+	margin-top: 0px;
+	
+}
+.buttonishere
+{
+	margin:auto;
+
+}
+.card
+	margin-top:80px;
+}
+.btn-primary
+{
+	padding-right:20px;
+}
+.sub-button
+{
+	align-content: center;
+}
+.modal-title
+{
+	color: black;
+
+}
+.modal-body
+{
+	color: black;
+}
+.addtocart-button btn-primary
+{
+	width: 20px;
+}
+.card h6 a
+{
+	color: #654DDE;
+}
+.rate-vendors
+{
+	margin-top: 100px;
+}
+.know h1, .complaints h1, .contact-heading h1
+{
+	text-align:center;
+	color:#6E6E72;
+	font-size: 80px;
+	padding-top:50px;
+	font-family:"Herr Von Muellerhoff", cursive;
+}
+.know
+{
+	margin-top: 100px;
+}
+.know p, .complaints p, .contact-heading p
+{
+	text-align: center;
+}
+.rate-vendors btn btn-primary
+{
+	width: 150px;
+}
+.rate-vendors-row
+{
+	padding-bottom: 50px;
+
+}
+.rate-vendors-row img
+{
+	width: auto;
+
+}
+
+
+.rate-vendors card-body
+{
+	height: 250px;
+}
+.contact-heading h1
+{
+	padding-top: 150px;
+}
+.map iframe
+{
+	width: 100%;
+	padding-top: 70px;
+}
+.contact-heading p
+{
+	padding-top: 30px;
+}
+.contact-form
+{
+	margin-top: 100px;
+}
+.contact-form h2,
+{
+	padding-top: 60px;
+	padding-left: 20px;
+}
+.contact-form h5
+{
+	color: #6E6E72;
+	padding-left: 20px;
+}
+.form-control
+{
+	width: 600px;
+}
+.contact-form h6,.contact-form i,
+{
+	color: #6E6E72;
+	padding-left: 20px;
+}
+.display-area
+{
+	background: #6E6E72;
+}
